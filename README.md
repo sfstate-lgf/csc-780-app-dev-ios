@@ -29,6 +29,15 @@ It is also used to track implementation status for those.
 API), an alert should appear and tell the user what happened.
 - [x] The instances list should be refreshed at a regular interval.
 
+## Build
+
+To build the project, you must have a Mac with XCode installed.
+Clone the project and open it in the editor.
+
+Then, build the application and run it in the iPhone simulator.
+Fill your API Key in the account view. Come back to the main view, and your instances should have appeared, assuming
+that you have created one or more on the [Scaleway Elements Dashboard](https://console.scaleway.com/login/).
+
 ## Visuals
 
 Below are a few visuals of the application, along with their corresponding description.

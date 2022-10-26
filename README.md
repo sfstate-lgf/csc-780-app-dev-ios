@@ -33,6 +33,10 @@ API), an alert should appear and tell the user what happened.
 
 To build the project, you must have a Mac with XCode installed.
 Clone the project and open it in the editor.
+You should have the following window:
+<p align="center">
+  <img src="./.github/assets/build_xcode.png" />
+</p>
 
 Then, build the application and run it in the iPhone simulator.
 Fill your API Key in the account view. Come back to the main view, and your instances should have appeared, assuming
